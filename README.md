@@ -6,4 +6,4 @@ We will release our code upon acceptance to provide complete information about o
 # Supplementary materials
 1.The theoretical basis of PPO training DOA
 
-2.Comparison experiment with Cartographer
+2.Comparison experiment with Cartographer and other SOTA methods
