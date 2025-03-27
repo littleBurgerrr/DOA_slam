@@ -4,6 +4,9 @@ We will release our code upon acceptance to provide complete information about o
 # HD Video
 
 # Supplementary materials
-1.The theoretical basis of PPO training DOA
+include:
+1.Why DRL and why PPO?
 
-2.Comparison experiment with Cartographer and other SOTA methods
+2.What problems have we solved compared to other approaches?
+
+3.Comparison experiment with Cartographer and other SOTA methods (on the way!!!)
