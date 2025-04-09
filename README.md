@@ -1,5 +1,5 @@
 # DOA_slam
-We will release our code upon acceptance to provide complete information about our implementation and to facilitate future work. And supplementary materials have updated. 🚀🚀🚀
+We will release our code upon acceptance to provide complete information about our implementation and to facilitate future work. And we have updated supplementary materials. 🚀🚀🚀
 
 # HD Video
 HD video has been uploaded to youtube:
