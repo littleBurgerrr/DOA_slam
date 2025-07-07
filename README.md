@@ -6,7 +6,7 @@ We will release our code upon acceptance to provide complete information about o
 
 # HD Video
 HD video has been uploaded to youtube:
-https://youtu.be/zqP-bmJkIaE
+[https://youtu.be/zqP-bmJkIaE](https://youtu.be/E6kkFsIIGAo)
 
 # Supplementary materials
 We have uploaded the SupplementaryMaterial.pdf, including:
